@@ -1,0 +1,1 @@
+{'send_reset_paypassword_code_url':'https://cgateway.omipay.com.cn/system/send_reset_paypassword_code','send_register_code':'https://cgateway.omipay.com.cn/system/send_register_code','forget_password':'https://cgateway.omipay.com.cn/system/send_forget_password_code'}
