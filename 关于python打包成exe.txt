@@ -1,0 +1,4 @@
+vs开发环境下 python打包exe
+进入环境的Scripts的文件夹 shift +右键 进入当前文件夹下的命令行
+命令行执行pip install pyinstaller  安装pyinstaller
+命令行再执行 pyinstaller  -F 文件路径 即可成功打包为exe   -F为只建立exe执行文件
